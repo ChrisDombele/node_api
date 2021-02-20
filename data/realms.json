@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "id": "1d5c1700-ee64-49cb-a6ff-8d21693d34f7",
+      "realm": "NIFLHEIM: THE REALM OF FOG AND MIST",
+      "description": "Niflheim (Old Norse: “Niðavellir”) means (“Mist home” or “Mist World”), and it is the darkest and coldest region of all the realms according to Norse mythology. Niflheim is one of the two first realms and it is placed in the northern region of Ginnungagap.        The eldest spring in the world called Hvergelmir “bubbling boiling spring” is located in Niflheim and it is protected by the huge dragon called Nidhug (Old Norse: Níðhöggr).       It is said that all cold rivers come from the spring Hvergelmir, and it is said to be the source of the eleven rivers (Élivágar). The spring is the origin of all that is living and the place where every living being will go back.       The water from Élivágar flowed down the mountains to the plains of Ginnungagap, where it solidified to frost and ice, which gradually formed a very dense layer. As the world tree Yggdrasil started to grow, it stretched one of its three large roots far into Niflheim and drew water from the spring Hvergelmir."
+    },
+    {
+      "id": "dd5c1fc5-5f53-4115-b414-0d32c1ab832f",
+      "realm": "MUSPELHEIM: THE LAND OF FIRE",
+      "description": "Muspelheim (Old Norse: “Múspellsheimr”) was created at the same time as Niflheim but it was created far to the south of the world in Norse mythology. Muspelheim is a burning hot place, filled with lava, flames, sparks, and soot. Muspelheim is the home of fire giants, fire demons, and ruled by the giant Surtr.      He is a sworn enemy of the Aesir. Surtr will ride out with his flaming sword in his hand at Ragnarök “the end of the world” Surtr will then attack Asgard, “the home of the gods” and turn it into a flaming inferno."
+    },
+    {
+      "id": "e73b85e0-1aa4-4f3e-8fe9-226ec4897436",
+      "realm": "ASGARD: HOME OF THE GODS",
+      "description": "In the middle of the world, high up in the sky is Asgard (Old Norse: “Ásgarðr”). It’s the home of the gods and goddesses. Odin is the ruler of Asgard and the chief of the Aesir. He is married to Frigg; and she is the Queen of the Aesir. Inside the gates of Asgard is Valhalla; it’s the place where half who dies in battle will go for the afterlife, the other half goes to Fólkvangr which is ruled over by the goddess Freya."
+    },
+    {
+      "id": "a8c085d2-76c3-46a7-bdb3-9a1a4d11e8eb",
+      "realm": "MIDGARD: HOME OF THE HUMANS",
+      "description": "Midgard (Old Norse: “Miðgarðr”) “middle earth” is located in the middle of the world, below Asgard. Midgard and Asgard are connected by Bifröst the Rainbow Bridge. Midgard is surrounded by a huge ocean that is impassable.       The Ocean is occupied by a huge sea serpent, the Midgard Serpent, and it is so huge that it encircles the world entirely. The first two humans, Ash and Embla were sent to Midgard, after Odin and his two brothers Vili and Ve created them from tree logs."
+    },
+    {
+      "id": "b38db5a6-86cd-45ea-96f4-491f372777b5",
+      "realm": "JOTUNHEIM: HOME OF THE GIANTS",
+      "description": "Jotunheim (Old Norse: “Jötunheimr”) is the home of the giants (also called jötnar). They are the sworn enemies of the Aesir. Jotunheim consists mostly of rocks, wilderness, and dense forests, and it lies in the snowy regions on the outermost shores of the ocean. Because of this, the giants live mostly from the fish from the rivers, and the animals from the forest, there is no fertile land in Jotunheim.       The giants and the Aesir are constantly fighting, but it also happens from time to time, that love affairs will occur. Odin, Thor, and a few others had lovers who were giants. Loki also came from Jotunheim, but he was accepted by the Aesir and lived in Asgard until he was punished. Jotunheim is separated from Asgard by the river Iving, which never freezes over.     The stronghold of Utgard could be called the giants’ version of Asgard, and it is so tall that it is hard to see the top of it. The fortress is carved from blocks of snow and glistening icicles, and inside lives the feared jotun king Utgard-Loki."
+    },
+    {
+      "id": "b73d6090-b785-41d9-b17e-ec92305fd0f8",
+      "realm": "VANAHEIM: HOME OF THE VANIR",
+      "description": "Vanaheim (Old Norse: “Vanaheimr”) is the home of the Vanir gods. The Vanir gods is an old branch of gods. The Vanir are masters of sorcery and magic. They are also widely acknowledged for their talent to predict the future. Nobody knows where exactly the land, Vanaheim is located, or even how it looks like. At the end of the Aesir-Vanir war, the three Vanir, Njord, Freyr, and Freya moved to Asgard as a token of peace."
+    },
+    {
+      "id": "fb895fab-8113-4cd3-9665-eb9fe68cd550",
+      "realm": "ALFHEIM: HOME OF THE LIGHT ELVES",
+      "description": "Alfheim (Old Norse: “Álfheimr or Ljósálfheimr”) is right next to Asgard in heaven. The light elves are beautiful creatures. They are considered the “guardian angels” The god Freyr is the ruler of Alfheim. The Light elves are minor gods of nature and fertility; they can help or hinder humans with their knowledge of magical powers. The elves are known for inspiring poets in art and music."
+    },
+    {
+      "id": "09be9da8-6c00-4046-9b68-bb8e8c57f66b",
+      "realm": "SVARTALFHEIM: HOME OF THE DWARVES",
+      "description": "Svartalfheim (Old Norse: “Niðavellir or Svartálfaheimr”) is the home of the dwarves, they live under the rocks, in caves, and underground. Hreidmar was the king of Svartalfheim until he was killed, Svartalfheim means Dark fields. The dwarves are masters of craftsmanship, and the gods of Asgard have received many powerful gifts, for instance, the magical ring Draupnir and Gungnir, Odin’s spear."
+    },
+    {
+      "id": "2a8e3a08-87d7-476e-81e1-1335a5a7fa7b",
+      "realm": "HELHEIM: HOME OF THE DISHONORABLE DEAD",
+      "description": "Hel is where all the dishonorable dead, thieves, murderers, and those the gods and goddesses feel is not brave enough to go to Valhalla or Folkvangr. Helheim is ruled over by Hel (the daughter of Loki), Helheim is a very grim and cold place, and any person who arrives here will never feel joy or happiness again. Hel will use all the dead in her realm at Ragnarök to attack the gods and goddesses at the plains of Vigrid, this will be the end of the world."
+    }
+  ]
+]
