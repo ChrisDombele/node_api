@@ -8,7 +8,7 @@ const {
 } = require('./controllers/realmController');
 
 const hostname = '127.0.0.1';
-const port = 5000;
+const PORT = process.env.PORT || 5000;
 
 // Routes
 const server = http.createServer((req, res) => {
@@ -51,8 +51,8 @@ const server = http.createServer((req, res) => {
   }
 });
 
-server.listen(port, hostname, () => {
-  console.log(`Server running at http://${hostname}:${port}/`);
+server.listen(PORT, hostname, () => {
+  console.log(`Server running at http://${hostname}:${PORT}/`);
 });
 
 // JSON data from https://skjalden.com/nine-realms-in-norse-mythology/
